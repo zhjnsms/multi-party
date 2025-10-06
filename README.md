@@ -54,8 +54,8 @@
 
 8. Mullvad
   <img width="2863" height="1529" alt="image" src="https://github.com/user-attachments/assets/b242c47f-6e15-4c1b-868a-1504c70a60fd" />
+
 - 网址：[mullvad.net](https://mullvad.net)
-- 
   - 介绍：极致匿名的VPN服务，无需提供邮箱地址即可注册，仅使用随机账号编号保护隐私。在39个国家部署800多台服务器，采用开源代码和WireGuard协议提供快速连接，支持比特币匿名支付，严格执行无日志政策，月费统一€5，适合对匿名性要求极高的用户。
 
 9. StrongVPN
